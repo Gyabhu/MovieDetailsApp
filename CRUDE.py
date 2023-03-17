@@ -2,12 +2,14 @@ from create import create
 from read import read
 from update import update
 from delete import delete
+from passCreator import ask_pwd
+import os
 
 
 
 def ask():
     selected = input("Welcome to Gab's Fort, Choose C/R/U/D/E: ")
-    selected.lower()
+    selected = selected.lower()
 
     def continue_or_not(c):
         ask() if c else print("May the fort be with you! Bye.")
@@ -36,4 +38,5 @@ def ask():
         print("Choose the correct keyword!")
         ask()
 
-ask()
+if __name__ == "__main__" :
+    ask()

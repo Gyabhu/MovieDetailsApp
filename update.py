@@ -14,5 +14,5 @@ def update(id,key,value):
     with open(filename,'w') as fp:
         json.dump(heros,fp, indent=2)
 
-    cont = input("Updated Sucessfully, Do you want to continue? Y/N: ")
+    cont = input("Updated Successfully, Do you want to continue? Y/N: ")
     return True if cont.lower() =='y' else False

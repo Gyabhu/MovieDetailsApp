@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23614599-be36-4e3d-a650-437507680d0a" name="Changes" comment="" />
+    <list default="true" id="23614599-be36-4e3d-a650-437507680d0a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CRUDE.py" beforeDir="false" afterPath="$PROJECT_DIR$/CRUDE.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SavedPass.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/authorized.py" beforeDir="false" afterPath="$PROJECT_DIR$/authorized.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heros.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/passCreator.py" beforeDir="false" afterPath="$PROJECT_DIR$/passCreator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/update.py" beforeDir="false" afterPath="$PROJECT_DIR$/update.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
